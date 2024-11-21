@@ -2,7 +2,7 @@
   <nav class="navbar">
     <div class="navbar-container">
       <div class="navbar-logo">
-        <img src="/project/workspace/src/icons/logoS.png" alt="Logo" class="logo-image">
+        <img src="" alt="Logo" class="logo-image">
       </div>
       <button class="navbar-toggle" @click="toggleMobileMenu" aria-label="Toggle menu">
         <span class="navbar-toggle-icon"></span>
