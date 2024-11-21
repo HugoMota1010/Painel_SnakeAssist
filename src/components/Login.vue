@@ -8,7 +8,7 @@
     <div class="login-content">
       <div class="login-form">
         <div class="logo-container">
-          <img src="/project/workspace/src/icons/logoS.png" alt="Logo da empresa" class="logo">
+          <img src="" alt="Logo da empresa" class="logo">
         </div>
         <h1 class="login-title">Painel de Gestão</h1>
         <form @submit.prevent="handleLogin">
